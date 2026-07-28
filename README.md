@@ -49,10 +49,10 @@
 | Проект | Задача | Стек |
 |---|---|---|
 | [**hr-analytics-ml**](https://github.com/JasurbekAkhunov/hr-analytics-ml) | Две модели для HR: прогноз удовлетворённости (SMAPE ≤ 15%) и вероятности увольнения (ROC-AUC ≥ 0.91). Прогноз первой модели использован как признак во второй | sklearn, Ridge, DecisionTree, RandomForest, пайплайны |
+| [**customer-activity-prediction**](https://github.com/JasurbekAkhunov/customer-activity-prediction) | Предсказание снижения покупательской активности клиентов интернет-магазина, сегментация покупателей под персональные предложения | sklearn, бинарная классификация |
 | [**well-location-ml**](https://github.com/JasurbekAkhunov/well-location-ml) | Выбор региона для нефтедобычи: bootstrap 1000 итераций, доверительный интервал прибыли, отбор региона с риском убытка < 2.5% | LinearRegression, bootstrap |
 | [**california-housing-spark**](https://github.com/JasurbekAkhunov/california-housing-spark) | Прогноз стоимости жилья на распределённых данных, сравнение моделей на всех признаках и только на числовых (RMSE 67 713 против 68 813) | PySpark, Spark MLlib |
 | [**cow-selection-ml**](https://github.com/JasurbekAkhunov/cow-selection-ml) | Отбор коров для покупки: регрессия удоя + классификация вкуса молока, ручное устранение нелинейности признаков | sklearn, LinearRegression, LogisticRegression |
-| [**supervised-learning-project**](https://github.com/JasurbekAkhunov/supervised-learning-project) | Обучение с учителем: подготовка признаков, подбор моделей и гиперпараметров | sklearn |
 
 ### Аналитика и статистика
 
@@ -87,5 +87,6 @@
 ## Связь
 
 <p>
-  <a href="mailto:zakir19491@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nasajasa5070@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jasurbek-akhunov-945a69372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
